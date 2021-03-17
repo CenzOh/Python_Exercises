@@ -1,4 +1,4 @@
-Utilizing Arrays in the Python language
+Utilizing Arrays and vectors in the Python language
 
 exercise 1, define a vector with sum, prod, max, and min fcns\
 exercise 2, swap fcn with a vector of 5 elements\
