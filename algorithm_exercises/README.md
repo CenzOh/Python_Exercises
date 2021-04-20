@@ -10,4 +10,4 @@ Exercise 5, Fast Bubble-Sort with Info\
 Assignment 7, MergeSort, Implement Merge Sort, use recursion and fcns mergesort & merge. Do NOT use built in fcns for sorting or merging\
 Assignment 8, Tree Traversal \
 Exercise 1, Pre-Order \
-Exercise 2, Post-Order \
+Exercise 2, Post-Order 
